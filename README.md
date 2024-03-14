@@ -1,3 +1,15 @@
+# Descrição:
+O Buscador de CEP com React é um projeto desenvolvido com o intuito de praticar os conceitos do framework React e adquirir habilidades na integração de APIs. A aplicação consiste em uma interface simples e intuitiva, onde os usuários podem inserir um CEP em um campo de entrada e, ao clicar no botão de busca, receberão informações detalhadas sobre o endereço associado a esse CEP.
+
+# Objetivos
+ - Aprofundamento na prática do React, incluindo a criação e manipulação de componentes, gerenciamento de estado e roteamento.
+
+- Compreensão do processo de integração de APIs em aplicações web, incluindo o envio de solicitações HTTP e o tratamento de respostas assíncronas.
+  
+- Melhoria das habilidades de design de interface de usuário e usabilidade.
+Familiarização com boas práticas de desenvolvimento e organização de projetos React.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
